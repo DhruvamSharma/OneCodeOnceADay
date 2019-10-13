@@ -18,7 +18,7 @@ I have suffered enough due to lack of knowledge for the same. Therefore, I want 
 * It is easier to commit to.
 * It does not take much time.
 * one need not focus much on sharing and posting and logging
-. Just code and show progress.
+* Just code and show progress.
 
 ### Why 21 days?
 No, it does not take 21 days to break an old habit. Similarly 100 daysare again not enough to break a habit. Generally the time can vary in the amount depending upon a person. Also if one aspires to change a habit, following a 100 days pattern is quite difficult, it usually happens not to be completed. Reasons could be like sometimes we need to go somewhere and then we thinks to cover it up later. And sometimes we miss it casually, thinking one day won't affect us. 
@@ -64,3 +64,7 @@ This is a good question. Sharing the progress lets you self-retrospect and you g
 ## REVIEW SECTION
 * If you have any questions or ideas about #OneCodeOneDay (or other ideas), connect me on [Twitter](https://twitter.com/PretentiousData), [Linkedin](https://www.linkedin.com/in/dhruvam), [Facebook](https://www.facebook.com/ITasteALiquorNeverBrewed), [Instagram](https://www.instagram.com/dhruvamsharma/) or [Medium](https://medium.com/@dhruvamsharma).  
 * If you like the concept, please &#9733; star it (on top right of the page) :) Does not take much of your time :)
+
+
+This edit has been made regarding Hacktober Fest.
+In this challenge, we have to make pull requests in our or somebody's code where we see the scope of contributing.
